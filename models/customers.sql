@@ -1,4 +1,3 @@
-
 WITH markup AS (
 
     SELECT *,
